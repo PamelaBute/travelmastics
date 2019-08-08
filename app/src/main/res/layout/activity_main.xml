@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:gravity="bottom"
+    >
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:id="@+id/prof_section"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="50dp"
+        >
+        <Button
+            android:id="@+id/google_sign_in_button"
+            android:layout_width="match_parent"
+            android:layout_height="63dp"
+            android:text="Sign In"
+            tools:layout_editor_absoluteX="61dp"
+            tools:layout_editor_absoluteY="295dp"
+            tools:text="Sign in"
+            />
+
+        <Button
+            android:id="@+id/email_sign_in_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sign in"
+            tools:layout_editor_absoluteX="233dp"
+            tools:layout_editor_absoluteY="300dp"
+            tools:text="Sign In"
+            android:drawableLeft="@android:drawable/ic_dialog_email"/>
+    </LinearLayout>
+
+</RelativeLayout>

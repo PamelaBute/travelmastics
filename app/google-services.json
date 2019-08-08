@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "560408597199",
+    "firebase_url": "https://travelmastics.firebaseio.com",
+    "project_id": "travelmastics",
+    "storage_bucket": "travelmastics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560408597199:android:1eef38fe14f739fc",
+        "android_client_info": {
+          "package_name": "com.example.travelmastics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560408597199-oi0187d6hvprvds82js89jes47mf56la.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.travelmastics",
+            "certificate_hash": "c947e795942b8ed2324415d045eb6bb263849ba8"
+          }
+        },
+        {
+          "client_id": "560408597199-9npkh824aa6me55ulcveap7p9g0khts8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPQPhayf9_zA6L_XJT6GLq2CR2WckaOr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560408597199-9npkh824aa6me55ulcveap7p9g0khts8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
